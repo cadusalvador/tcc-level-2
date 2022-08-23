@@ -23,19 +23,19 @@ A integração ocorrerá via banco de dados. Será recebido uma carga de dados d
 
 # ⚙️ Funcionalidades 
 
-## A pessoa faz cadastro.
+## A pessoa faz cadastro (Must Have).
 
 - Apelido
 - Nome Completo
 - Email
 - Senha
 
-## A pessoa faz login.
+## A pessoa faz login(Must Have).
 
 - Email
 - Senha
 
-## A pessoa pode ver suas tarefas diárias.
+## A pessoa pode ver suas tarefas diárias(Must Have).
 
 Um painel deve mostrar 5 tarefas diárias em niveis diferentes de dificuldade, podendo variar entre fácil, média e difícil [enum].
 
@@ -43,11 +43,11 @@ A pessoa poderá escolher a tarefa que quer realizar naquele momento
 
 No próximo dia, as tarefas serão diferentes
 
-## A pessoa pode marcar uma quest como concluida.
+## A pessoa pode marcar uma quest como concluida(Must Have).
 
 O usuário pode marcar uma quest como concluida recebendo uma quantidade de resiliência (pontos).
 
-## A pessoa vai ser recompensada com pontos para concluir tarefas.
+## A pessoa vai ser recompensada com pontos para concluir tarefas(Must Have).
 
 A quantidade de resiliência recompensada depende da dificuldade da tarefa.
 
@@ -55,7 +55,7 @@ A quantidade de resiliência recompensada depende da dificuldade da tarefa.
 - Médio: 50 pts de resiliência
 - Difícil: 100 pts de resiliência.
 
-## A pessoa pode ver sua evolução.
+## A pessoa pode ver sua evolução(Must Have).
 
 Um histórico de atividades será salvo para cada usuário e ao ser consultado mostra um resumo com base num prazo definido.
 
@@ -63,7 +63,7 @@ Dados do resumo:
 - Pontos de resiliência ganhos
 - Quantidade de missões realizadas
 
-## A pessoa poderá capacidade de adicionar seus próprios power-ups e missões
+## A pessoa poderá capacidade de adicionar seus próprios power-ups e missões(Nice to Have).
 
 Conforme a criatidade e as necessidades do usuário, ele mesmo pode definir
 novos power-ups e missões que queira realizar, utilizando os dados aos responder um formulário:
@@ -72,7 +72,7 @@ novos power-ups e missões que queira realizar, utilizando os dados aos responde
 - Descrição da atividade [String/Text area no Front]
 - Nível de dificuldade (no caso da missão) [enum]
 
-## A pessoa poderá se juntar a outros amigos e aliados para realizar missões.
+## A pessoa poderá se juntar a outros amigos e aliados para realizar missões(Must Have).
 
 O usuário pesquisa dentro da aplicação o apelido de um amigo para que eles possam
 realizar atividades juntos.
@@ -85,7 +85,7 @@ A amizade possui dois estados correspondentes a um enum na entidade: SOLICITADA 
 O usuário pode responder aceitando ou não a amizade; caso sim, elas podem compartilhar
 atividades juntas, sendo bonificadas com maior pontuação por isso.
 
-## A pessoa poderá se comunicar por chat  
+## A pessoa poderá se comunicar por chat(Must Have).  
 
 Haverá um chat para que as pessoas possam compartilhar suas experiências durante o uso da aplicação
 

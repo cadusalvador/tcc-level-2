@@ -63,15 +63,6 @@ Dados do resumo:
 - Pontos de resiliência ganhos
 - Quantidade de missões realizadas
 
-## A pessoa poderá capacidade de adicionar seus próprios power-ups e missões(Nice to Have).
-
-Conforme a criatidade e as necessidades do usuário, ele mesmo pode definir
-novos power-ups e missões que queira realizar, utilizando os dados aos responder um formulário:
-
-- Título [String]
-- Descrição da atividade [String/Text area no Front]
-- Nível de dificuldade (no caso da missão) [enum]
-
 ## A pessoa poderá se juntar a outros amigos e aliados para realizar missões(Must Have).
 
 O usuário pesquisa dentro da aplicação o apelido de um amigo para que eles possam
@@ -92,4 +83,21 @@ Haverá um chat para que as pessoas possam compartilhar suas experiências duran
 O chat não salvará o histórico da conversa entre as pessoas
 
 O chat utilizará o websocket Socket.io
+
+# 💾 Backlog
+
+## A pessoa poderá capacidade de adicionar seus próprios power-ups e missões(Nice to Have).
+
+Conforme a criatidade e as necessidades do usuário, ele mesmo pode definir
+novos power-ups e missões que queira realizar, utilizando os dados aos responder um formulário:
+
+- Título [String]
+- Descrição da atividade [String/Text area no Front]
+- Nível de dificuldade (no caso da missão) [enum]
+
+## Impulso
+
+A pessoa escreve algo específico que ela espera nos próximos dias ou semanas. Não precisa estar relacionado ao seu desafio ou Vitória Épica – qualquer coisa que ela esteja esperando conta.
+- Título [String]
+- Descrição do que ela aguarda[String/Text area no Front]
 

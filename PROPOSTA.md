@@ -85,7 +85,3 @@ A amizade possui dois estados correspondentes a um enum na entidade: SOLICITADA 
 O usuário pode responder aceitando ou não a amizade; caso sim, elas podem compartilhar
 atividades juntas, sendo bonificadas com maior pontuação por isso.
 
-## Impulso
-
-A pessoa escreve algo específico que ela espera nos próximos dias ou semanas. Não precisa estar relacionado ao seu desafio ou Vitória Épica – qualquer coisa que ela esteja esperando conta.
-- titulo

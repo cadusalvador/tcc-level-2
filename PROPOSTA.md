@@ -1,4 +1,4 @@
-# NOME-DO-APLICATIVO
+# ANXIA QUESTS
 Plataforma gamificada para auxiliar pessoas jovens no combate ao sedentarismo e problemas como ansiedade.
 
 # 🤯 O problema 

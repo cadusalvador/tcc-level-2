@@ -1,9 +1,12 @@
 # NOME-DO-APLICATIVO
 Game para auxiliar pessoas no combate à ansiedade
 
-## Problema
+# Problema
 
 Como manter um padrão de vida saudável para combater a ansiedade
+
+# Proposta de Solução
+Após um acidente que a manteve presa em uma cama de hospital por um longo período, Jane desenvolveu uma técnica para “gamificar” seu cotidiano de fisioterapia e recuperação: criou uma espécie de sistemas de pontos e premiação para se auto motivar a melhorar e cumprir as tarefas que eram sugeridas pelos médicos.
 
 
 # Funcionalidades 

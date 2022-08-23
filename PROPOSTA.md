@@ -36,16 +36,16 @@ O usuário pode marca uma quest como concluida recebendo uma quantidade de resil
 
 ## A pessoa pode ver sua evolução.
 
-Um histórico de atividades será salvo e, ao ser consultado, mostra um resumo com base num prazo definido.
+Um histórico de atividades será salvo para cada usuário e ao ser consultado mostra um resumo com base num prazo definido.
 
 Dados do resumo:
-- pontos de resiliência ganhos
-- quantidade de missões realizadas
+- Pontos de resiliência ganhos
+- Quantidade de missões realizadas
 
 ## A pessoa poderá capacidade de adicionar seus próprios power-ups e missões
 
 Conforme a criatidade e as necessidades do usuário, ele mesmo pode definir
-novos power-ups e missões que queira realizar, utilizando os dados:
+novos power-ups e missões que queira realizar, utilizando os dados aos responder um formulário:
 
 - Título
 - Descrição da atividade
@@ -55,3 +55,11 @@ novos power-ups e missões que queira realizar, utilizando os dados:
 
 O usuário pesquisa dentro da aplicação o apelido de um amigo para que eles possam
 realizar atividades juntos.
+
+O auto-relacionamento se dará por uma tabela "amizade", com o usuário solicitante
+e o usuário que recebe a solicitação.
+
+A amizade possui dois estados: SOLICITADA ou ATIVA.
+
+O usuário pode responder aceitando ou não a amizade; caso sim, elas podem compartilhar
+atividades juntas, sendo bonificadas por isso.

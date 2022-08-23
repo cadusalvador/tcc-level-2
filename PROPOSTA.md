@@ -63,6 +63,9 @@ Dados do resumo:
 - Pontos de resiliência ganhos
 - Quantidade de missões realizadas
 
+## Criar vinculos de amizade
+ A pessoa poderar criar vinculos de amizade pesquisando por um usuario e enviando um pedido de amizade.
+ 
 ## A pessoa poderá se juntar a outros amigos e aliados para realizar missões(Must Have).
 
 O usuário pesquisa dentro da aplicação o apelido de um amigo para que eles possam
@@ -88,7 +91,7 @@ O chat utilizará o websocket Socket.io
 
 ## A pessoa poderá adicionar seus próprios power-ups e missões(Nice to Have).
 
-Conforme a criatidade e as necessidades do usuário, ele mesmo pode definir
+Conforme a criatividade e as necessidades do usuário, ele mesmo pode definir
 novos power-ups e missões que queira realizar, utilizando os dados aos responder um formulário:
 
 - Título [String]

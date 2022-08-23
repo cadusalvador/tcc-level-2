@@ -47,9 +47,9 @@ Dados do resumo:
 Conforme a criatidade e as necessidades do usuário, ele mesmo pode definir
 novos power-ups e missões que queira realizar, utilizando os dados aos responder um formulário:
 
-- Título
-- Descrição da atividade
-- Nível de dificuldade (no caso da missão)
+- Título [String]
+- Descrição da atividade [String/Text area no Front]
+- Nível de dificuldade (no caso da missão) [enum]
 
 ## A pessoa poderá se juntar a outros amigos e aliados para realizar missões.
 
@@ -59,7 +59,7 @@ realizar atividades juntos.
 O auto-relacionamento se dará por uma tabela "amizade", com o usuário solicitante
 e o usuário que recebe a solicitação.
 
-A amizade possui dois estados: SOLICITADA ou ATIVA.
+A amizade possui dois estados correspondentes a um enum na entidade: SOLICITADA ou ATIVA.
 
 O usuário pode responder aceitando ou não a amizade; caso sim, elas podem compartilhar
-atividades juntas, sendo bonificadas por isso.
+atividades juntas, sendo bonificadas com maior pontuação por isso.

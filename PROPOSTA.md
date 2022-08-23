@@ -39,6 +39,10 @@ A integração ocorrerá via banco de dados. Será recebido uma carga de dados d
 
 Um painel deve mostrar 5 tarefas diárias em niveis diferentes de dificuldade, podendo variar entre fácil, média e difícil [enum].
 
+A pessoa poderá escolher a tarefa que quer realizar naquele momento 
+
+No próximo dia, as tarefas serão diferentes
+
 ## A pessoa pode marcar uma quest como concluida.
 
 O usuário pode marcar uma quest como concluida recebendo uma quantidade de resiliência (pontos).

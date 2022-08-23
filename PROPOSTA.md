@@ -26,13 +26,19 @@ Os jogadores completam missões, derrotam bandidos, recrutam aliados e alcançam
 
 ## A pessoa pode ver suas tarefas diárias.
 
-Deve mostrar 5 tarefas diárias em niveis diferentes de dificuldade, podendo variar entre fácil, média e difícil.
+Um painel deve mostrar 5 tarefas diárias em niveis diferentes de dificuldade, podendo variar entre fácil, média e difícil.
 
 ## A pessoa pode marca uma quest como concluida.
 
-O usuário pode marca uma quest como concluida recebendo uma quantidade de resiliência(Pontos).
+O usuário pode marcar uma quest como concluida recebendo uma quantidade de resiliência (pontos).
 
-## A pessoa vai ser recompensa com pontos para concluir tarefas.
+## A pessoa vai ser recompensada com pontos para concluir tarefas.
+
+A quantidade de resiliência recompensada depende da dificuldade da tarefa.
+
+- Fácil: 20 pts de resiliência
+- Médio: 50 pts de resiliência
+- Difícil: 100 pts de resiliência.
 
 ## A pessoa pode ver sua evolução.
 

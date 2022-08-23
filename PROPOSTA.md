@@ -26,9 +26,9 @@ Os jogadores completam missões, derrotam bandidos, recrutam aliados e alcançam
 
 ## A pessoa pode ver suas tarefas diárias.
 
-Um painel deve mostrar 5 tarefas diárias em niveis diferentes de dificuldade, podendo variar entre fácil, média e difícil.
+Um painel deve mostrar 5 tarefas diárias em niveis diferentes de dificuldade, podendo variar entre fácil, média e difícil [enum].
 
-## A pessoa pode marca uma quest como concluida.
+## A pessoa pode marcar uma quest como concluida.
 
 O usuário pode marcar uma quest como concluida recebendo uma quantidade de resiliência (pontos).
 

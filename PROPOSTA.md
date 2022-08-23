@@ -14,13 +14,6 @@ O comportamento sedentário atinge cerca de 60% dos jovens e este estilo de vida
 Jane McGonigal desenvolveu uma técnica para “gamificar” seu cotidiano de fisioterapia e recuperação: criou uma espécie de sistemas de pontos e premiação para se auto motivar a melhorar e cumprir as tarefas que eram sugeridas pelos médicos.
 Os jogadores completam missões, derrotam bandidos, recrutam aliados e alcançam vitórias épicas relacionadas à saúde mental, bem-estar e outros objetivos de vida. A nossa proposta é criar um sistema equivalente ao que foi descrito no livro de Jane, trazendo mais interatividade para os players, mais organização nas tarefas e trazer formas de lidar com problemas de saúde de uma forma divertida.
 
-# 🔌Integração
-A integração ocorrerá via banco de dados. Será recebido uma carga de dados de:
-
-### Pessoa/Usuario
-- desafios
-- amigos
-
 # ⚙️ Funcionalidades 
 
 ## A pessoa faz cadastro (Must Have).
@@ -97,6 +90,14 @@ novos power-ups e missões que queira realizar, utilizando os dados aos responde
 - Título [String]
 - Descrição da atividade [String/Text area no Front]
 - Nível de dificuldade (no caso da missão) [enum]
+
+## Criar uma quest
+
+O jogador pode criar uma quest personalizada.
+
+## Criar um pack de quests
+
+Assim como vai existir packs de tarefas disponiveis para os jogadores eles também vão poder criar seus packs personalizados com quests do jogo ou com quests que eles mesmo criaram. 
 
 ## Impulso(Nice to Have).
 

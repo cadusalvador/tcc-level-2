@@ -16,19 +16,19 @@ Os jogadores completam missões, derrotam bandidos, recrutam aliados e alcançam
 
 # ⚙️ Funcionalidades 
 
-## A pessoa faz cadastro (Must Have).
+## A pessoa faz cadastro
 
 - Apelido
 - Nome Completo
 - Email
 - Senha
 
-## A pessoa faz login(Must Have).
+## A pessoa faz login
 
 - Email
 - Senha
 
-## A pessoa pode ver suas tarefas diárias(Must Have).
+## A pessoa pode ver suas tarefas diárias
 
 Um painel deve mostrar 5 tarefas diárias em niveis diferentes de dificuldade, podendo variar entre fácil, média e difícil [enum].
 
@@ -36,11 +36,11 @@ A pessoa poderá escolher a tarefa que quer realizar naquele momento
 
 No próximo dia, as tarefas serão diferentes
 
-## A pessoa pode marcar uma quest como concluida(Must Have).
+## A pessoa pode marcar uma quest como concluida
 
 O usuário pode marcar uma quest como concluida recebendo uma quantidade de resiliência (pontos).
 
-## A pessoa vai ser recompensada com pontos para concluir tarefas(Must Have).
+## A pessoa vai ser recompensada com pontos para concluir tarefas
 
 A quantidade de resiliência recompensada depende da dificuldade da tarefa.
 
@@ -48,7 +48,7 @@ A quantidade de resiliência recompensada depende da dificuldade da tarefa.
 - Médio: 50 pts de resiliência
 - Difícil: 100 pts de resiliência.
 
-## A pessoa pode ver sua evolução(Must Have).
+## A pessoa pode ver sua evolução
 
 Um histórico de atividades será salvo para cada usuário e ao ser consultado mostra um resumo com base num prazo definido.
 
@@ -59,7 +59,7 @@ Dados do resumo:
 ## Criar vinculos de amizade
  A pessoa poderar criar vinculos de amizade pesquisando por um usuario e enviando um pedido de amizade.
  
-## A pessoa poderá se juntar a outros amigos e aliados para realizar missões(Must Have).
+## A pessoa poderá se juntar a outros amigos e aliados para realizar missões
 
 O usuário pesquisa dentro da aplicação o apelido de um amigo para que eles possam
 realizar atividades juntos.
@@ -72,7 +72,7 @@ A amizade possui dois estados correspondentes a um enum na entidade: SOLICITADA 
 O usuário pode responder aceitando ou não a amizade; caso sim, elas podem compartilhar
 atividades juntas, sendo bonificadas com maior pontuação por isso.
 
-## A pessoa poderá se comunicar por chat(Must Have).  
+## A pessoa poderá se comunicar por chat 
 
 Haverá um chat para que as pessoas possam compartilhar suas experiências durante o uso da aplicação
 
@@ -90,7 +90,7 @@ O chat utilizará o websocket Socket.io
 
 # 💾 Backlog
 
-## A pessoa poderá adicionar seus próprios power-ups e missões(Nice to Have).
+## A pessoa poderá adicionar seus próprios power-ups e missões
 
 Conforme a criatividade e as necessidades do usuário, ele mesmo pode definir
 novos power-ups e missões que queira realizar, utilizando os dados aos responder um formulário:
@@ -107,13 +107,13 @@ O jogador pode criar uma quest personalizada.
 
 Assim como vai existir packs de tarefas disponiveis para os jogadores eles também vão poder criar seus packs personalizados com quests do jogo ou com quests que eles mesmo criaram. 
 
-## Impulso(Nice to Have).
+## Impulso
 
 A pessoa escreve algo específico que ela espera nos próximos dias ou semanas. Não precisa estar relacionado ao seu desafio ou Vitória Épica – qualquer coisa que ela esteja esperando conta.
 - Título [String]
 - Descrição do que ela aguarda[String/Text area no Front]
 
-## Login Social do Google(Nice to Have).
+## Login Social do Google
 
 Inclusão de login soacil utilizando API da Google.
 

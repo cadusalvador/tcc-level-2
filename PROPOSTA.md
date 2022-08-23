@@ -72,6 +72,9 @@ novos power-ups e missões que queira realizar, utilizando os dados aos responde
 - Descrição da atividade [String/Text area no Front]
 - Nível de dificuldade (no caso da missão) [enum]
 
+## Criar vinvulos de amizade
+ A pessoa poderar criar vinculos de amizade pesquisando por um usuario e enviando um pedido de amizade.
+ 
 ## A pessoa poderá se juntar a outros amigos e aliados para realizar missões.
 
 O usuário pesquisa dentro da aplicação o apelido de um amigo para que eles possam

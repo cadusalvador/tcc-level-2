@@ -92,3 +92,4 @@ Haverá um chat para que as pessoas possam compartilhar suas experiências duran
 O chat não salvará o histórico da conversa entre as pessoas
 
 O chat utilizará o websocket Socket.io
+

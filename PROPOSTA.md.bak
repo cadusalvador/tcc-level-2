@@ -36,22 +36,5 @@ O usuário pode marca uma quest como concluida recebendo uma quantidade de resil
 
 ## A pessoa pode ver sua evolução.
 
-Um histórico de atividades será salvo e, ao ser consultado, mostra um resumo com base num prazo definido.
-
-Dados do resumo:
-- pontos de resiliência ganhos
-- quantidade de missões realizadas
-
 ## A pessoa poderá capacidade de adicionar seus próprios power-ups e missões
 
-Conforme a criatidade e as necessidades do usuário, ele mesmo pode definir
-novos power-ups e missões que queira realizar, utilizando os dados:
-
-- Título
-- Descrição da atividade
-- Nível de dificuldade (no caso da missão)
-
-## A pessoa poderá se juntar a outros amigos e aliados para realizar missões.
-
-O usuário pesquisa dentro da aplicação o apelido de um amigo para que eles possam
-realizar atividades juntos.

@@ -104,3 +104,9 @@ A pessoa escreve algo específico que ela espera nos próximos dias ou semanas. 
 - Título [String]
 - Descrição do que ela aguarda[String/Text area no Front]
 
+## Login Social do Google(Nice to Have).
+
+Inclusão de login soacil utilizando API da Google.
+
+Será possível realizar login com conta Google.
+

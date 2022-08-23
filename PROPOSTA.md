@@ -1,5 +1,5 @@
 # ANXIA QUESTS
-Plataforma gamificada para auxiliar pessoas jovens no combate ao sedentarismo e problemas como ansiedade.
+Plataforma gamificada para auxiliar pessoas jovens no combate ao sedentarismo e problemas com ansiedade.
 
 # 🤯 O problema 
 

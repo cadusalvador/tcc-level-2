@@ -1,9 +1,12 @@
 # NOME-DO-APLICATIVO
-Game para auxiliar pessoas no combate à ansiedade
+Plataforma gamificada para auxiliar pessoas jovens no combate ao sedentarismo e problemas como ansiedade.
 
 # Problema
 
-Como manter um padrão de vida saudável para combater a ansiedade 
+O comportamento sedentário atinge cerca de 60% dos jovens e este estilo de vida ocioso vem aumentando com o uso e auxilio das tecnologias como computadores, smartphones, tablets, reduzindo momentos de lazer com práticas de atividades físicas. Este comportamento pode potencializar a experimentação dos aspectos negativos da ansiedade, causando prejuizos fisicos e mentais para os adolescentes. O que nos leva a dois pontos:
+
+- Como incentivar jovens a terem uma rotina de vida mais saudável?
+- Como adequar o cérebro para manter-se nessa rotina?
 
 # Proposta de Solução
 Jane McGonigal desenvolveu uma técnica para “gamificar” seu cotidiano de fisioterapia e recuperação: criou uma espécie de sistemas de pontos e premiação para se auto motivar a melhorar e cumprir as tarefas que eram sugeridas pelos médicos.

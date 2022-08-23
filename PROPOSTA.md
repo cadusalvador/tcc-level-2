@@ -1,19 +1,27 @@
-# NOME-DO-APLICATIVO
-Plataforma gamificada para auxiliar pessoas jovens no combate ao sedentarismo e problemas como ansiedade.
+# ANXIA QUESTS
+Plataforma gamificada para auxiliar pessoas jovens no combate ao sedentarismo e problemas com ansiedade.
 
-# Problema
+# 🤯 O problema 
 
 O comportamento sedentário atinge cerca de 60% dos jovens e este estilo de vida ocioso vem aumentando com o uso e auxilio das tecnologias como computadores, smartphones, tablets, reduzindo momentos de lazer com práticas de atividades físicas. Este comportamento pode potencializar a experimentação dos aspectos negativos da ansiedade, causando prejuizos fisicos e mentais para os adolescentes. O que nos leva a dois pontos:
 
 - Como incentivar jovens a terem uma rotina de vida mais saudável?
 - Como adequar o cérebro para manter-se nessa rotina?
 
-# Proposta de Solução
+# 💡 Proposta de Solução
+### Visão Geral🧐
+
 Jane McGonigal desenvolveu uma técnica para “gamificar” seu cotidiano de fisioterapia e recuperação: criou uma espécie de sistemas de pontos e premiação para se auto motivar a melhorar e cumprir as tarefas que eram sugeridas pelos médicos.
 Os jogadores completam missões, derrotam bandidos, recrutam aliados e alcançam vitórias épicas relacionadas à saúde mental, bem-estar e outros objetivos de vida. A nossa proposta é criar um sistema equivalente ao que foi descrito no livro de Jane, trazendo mais interatividade para os players, mais organização nas tarefas e trazer formas de lidar com problemas de saúde de uma forma divertida.
 
+# 🔌Integração
+A integração ocorrerá via banco de dados. Será recebido uma carga de dados de:
 
-# Funcionalidades 
+### Pessoa/Usuario
+- desafios
+- amigos
+
+# ⚙️ Funcionalidades 
 
 ## A pessoa faz cadastro.
 
@@ -30,6 +38,10 @@ Os jogadores completam missões, derrotam bandidos, recrutam aliados e alcançam
 ## A pessoa pode ver suas tarefas diárias.
 
 Um painel deve mostrar 5 tarefas diárias em niveis diferentes de dificuldade, podendo variar entre fácil, média e difícil [enum].
+
+A pessoa poderá escolher a tarefa que quer realizar naquele momento 
+
+No próximo dia, as tarefas serão diferentes
 
 ## A pessoa pode marcar uma quest como concluida.
 

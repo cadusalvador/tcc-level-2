@@ -86,7 +86,7 @@ O chat utilizará o websocket Socket.io
 
 # 💾 Backlog
 
-## A pessoa poderá capacidade de adicionar seus próprios power-ups e missões(Nice to Have).
+## A pessoa poderá adicionar seus próprios power-ups e missões(Nice to Have).
 
 Conforme a criatidade e as necessidades do usuário, ele mesmo pode definir
 novos power-ups e missões que queira realizar, utilizando os dados aos responder um formulário:
@@ -95,7 +95,7 @@ novos power-ups e missões que queira realizar, utilizando os dados aos responde
 - Descrição da atividade [String/Text area no Front]
 - Nível de dificuldade (no caso da missão) [enum]
 
-## Impulso
+## Impulso(Nice to Have).
 
 A pessoa escreve algo específico que ela espera nos próximos dias ou semanas. Não precisa estar relacionado ao seu desafio ou Vitória Épica – qualquer coisa que ela esteja esperando conta.
 - Título [String]

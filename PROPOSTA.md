@@ -85,3 +85,11 @@ A amizade possui dois estados correspondentes a um enum na entidade: SOLICITADA 
 O usuário pode responder aceitando ou não a amizade; caso sim, elas podem compartilhar
 atividades juntas, sendo bonificadas com maior pontuação por isso.
 
+## A pessoa poderá se comunicar por chat  
+
+Haverá um chat para que as pessoas possam compartilhar suas experiências durante o uso da aplicação
+
+O chat não salvará o histórico da conversa entre as pessoas
+
+O chat utilizará o websocket Socket.io
+

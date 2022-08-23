@@ -111,3 +111,10 @@ Inclusão de login soacil utilizando API da Google.
 
 Será possível realizar login com conta Google.
 
+# 🚀 Tecnologias
+
+- React e Node.js para o Front-end;
+- Spring Data, Web, Actuator e Security;
+- PostgreSQL para gerenciamento de Banco de Dados;
+- Lombok;
+- Utilização de protocolo de WebSockets.
